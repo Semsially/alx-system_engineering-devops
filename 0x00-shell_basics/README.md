@@ -9,3 +9,4 @@ Move the file.
 Delete directory.
 Back to the future.
 List all files.
+Print file type.
