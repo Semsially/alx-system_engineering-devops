@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 Display current directory contents.
 Create a directory.
 Move the file.
+Delete directory.
