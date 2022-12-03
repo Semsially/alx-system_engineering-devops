@@ -12,3 +12,4 @@ List all files.
 Print file type.
 Symbolic links.
 Copy html files.
+Move all files.
