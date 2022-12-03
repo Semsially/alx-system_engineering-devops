@@ -14,3 +14,4 @@ Symbolic links.
 Copy html files.
 Move all files.
 Delete all files.
+Creates a directories welcome.
