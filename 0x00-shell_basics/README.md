@@ -13,3 +13,4 @@ Print file type.
 Symbolic links.
 Copy html files.
 Move all files.
+Delete all files.
