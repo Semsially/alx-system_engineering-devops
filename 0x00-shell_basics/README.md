@@ -15,3 +15,4 @@ Copy html files.
 Move all files.
 Delete all files.
 Creates a directories welcome.
+List all files and dictionaries of the current directory.
