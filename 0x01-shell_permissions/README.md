@@ -13,3 +13,4 @@ Create a script that adds execute permission to all subdirectors.
 Create a script that creates a directory called my_dir.
 Write a script that changes the group owner to school for the file hello.
 Write a script that changes the owner to vincent and the group to staff.
+Write a script that changes the owner and the group owner of hello to vincent.
