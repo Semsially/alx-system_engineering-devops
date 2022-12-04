@@ -9,3 +9,4 @@ Write a script that adds execution permission to the owner.
 Write a script that sets the permission to the file hello.
 Write a script that sets the mode of the file hello.
 Write a script that sets the mode of the file helloe to the same as olle's.
+Create a script that adds execute permission to all subdirectors.
